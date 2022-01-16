@@ -33,7 +33,7 @@
 
     .container-collection{
         background-color:#eaebec;
-        height: 1500px;
+        height: 1600px;
     }
     .collection-header{       
         padding-top: 50px;
@@ -46,6 +46,10 @@
     .popular-collections{
         display: grid;
         grid-template-columns: repeat(3,1fr);
+        grid-row-gap: 30px;
+        grid-column-gap: 30px;
+        margin-left: 200px;
+        margin-right: 200px;
     }
 
     .fa-star,.fa-star-half-alt{
