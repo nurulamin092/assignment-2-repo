@@ -43,6 +43,10 @@
         color: #3A3A3A;
         text-align: center;
     }
+    .popular-collections{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
 
     .fa-star,.fa-star-half-alt{
         color: #FFC014;
