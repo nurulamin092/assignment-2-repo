@@ -44,7 +44,7 @@
         text-align: center;
     }
 
-    .fa-star.filled{
+    .fa-star,.fa-star-half-alt{
         color: #FFC014;
     }  
     
