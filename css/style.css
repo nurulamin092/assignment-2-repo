@@ -18,3 +18,13 @@
         font-weight: 700;
         font-size: 52px;
     }
+    .influence-detail button{      
+        background: #E02C6D;
+        width: 196px;
+        height: 44px;
+        font-weight: 700;
+        color: #FFFFFF;
+        border-radius: 41px;
+        padding: 10px, 24px, 10px, 24px;
+       
+    }
