@@ -69,3 +69,34 @@
 
     }
     /* End footer */
+
+
+    /* start resposive */
+
+    /* mobail device */
+
+    @media  only screen and (max-width:688px){
+        .container{
+            width: 100%;
+        }
+        .influencer,.popular-collections{
+            grid-template-columns: repeat(1,1fr);
+        }
+        .influencer,.popular-collections{
+          flex-direction: column;
+        }
+    }
+/* Tablet device */
+@media only screen and (min-width:688px) and (max-width: 1024px){
+    .container{
+        width: 100%;
+    }
+    .influencer,.popular-collections{
+        grid-template-columns: repeat(2,1fr);
+    }
+    .influencer,.popular-collections{
+      flex-direction: column;
+    }
+}
+
+    /* end resposive */
