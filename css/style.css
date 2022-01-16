@@ -55,4 +55,17 @@
     .fa-star,.fa-star-half-alt{
         color: #FFC014;
     }  
-    
+
+
+    /* Popular Collection End */
+
+    /* Start footer */
+
+
+    footer{
+        background:#3A3A3A;
+        color:white;
+        text-align: center;
+
+    }
+    /* End footer */
