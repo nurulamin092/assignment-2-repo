@@ -1,0 +1,20 @@
+
+    /*----------   import link ----------*/
+    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&family=Poppins:ital,wght@0,400;0,500;0,700;1,200&display=swap');
+
+
+
+    /* -------------header ---------------*/
+    .influencer{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .influence-detail{
+        width: 582px;
+        height: 270px;
+       
+    }
+    .influence-detail h1{
+        font-weight: 700;
+        font-size: 52px;
+    }
